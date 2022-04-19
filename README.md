@@ -3,5 +3,4 @@
 
 Desenvolvedor desde 2011 apaixonado por extração de dados/crawlers.
 
-[Linkedin](https://br.linkedin.com/in/brunnodu)
 
